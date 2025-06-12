@@ -5,6 +5,9 @@ I’m a systems and tools developer focused on creating high-performance, cross-
 
 I enjoy building developer-focused tools that enable better system insights and automation.
 
+## Languages/Any other things i know.
+Node.js, Python, Php, Rust, Ruby, C, C#, C++, Go, Assembly, Javascript, JScript. I am a nerd.
+
 ## Stats & Activity
 
 ![GitHub Profile Hits](https://hit.yhype.me/github/profile?user_id=209263194)
