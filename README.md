@@ -1,12 +1,10 @@
-# Hey, I’m Kerim Yılmaz 👋
+# Hey, I’m Arda Taşkın 👋
 
 ## About Me  
-I’m a systems and tools developer focused on creating high-performance, cross-platform utilities to support OS developers and power users. My projects aim to provide fast, reliable, and advanced diagnostics and monitoring capabilities, primarily using Rust for speed and efficiency.
-
-I enjoy building developer-focused tools that enable better system insights and automation.
+Cannot say something about myself, lmao.
 
 ## Languages/Any other things i know.
-Node.js, Python, Php, Rust, Ruby, C, C#, C++, Go, Assembly, Javascript, JScript. I am a nerd.
+Node.js, Python, PHP, Rust, Ruby, C, C#, C++, Go, Assembly, Javascript. HTML, CSS. I am a nerd.
 
 ## Stats & Activity
 
@@ -16,5 +14,3 @@ Node.js, Python, Php, Rust, Ruby, C, C#, C++, Go, Assembly, Javascript, JScript.
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=kerimyilmazz&count_private=true&include_all_commits=true&show_icons=true&theme=onedark&icon_color=fff&hide_border=true" alt="GitHub stats" />
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kerimyilmazz&theme=onedark&layout=compact&hide_border=true&langs_count=25" alt="Top languages" />
 </div>
-
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=kerimyilmazz&theme=onedark&hide_border=true" alt="GitHub streak" />
